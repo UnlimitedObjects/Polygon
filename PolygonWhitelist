@@ -1,4 +1,4 @@
 {
-	"TestKey1",
-	"TestKey2"
+	[1] = "TestKey1",
+	[2] = "TestKey2"
 }
